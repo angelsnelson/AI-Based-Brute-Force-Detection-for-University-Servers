@@ -1,0 +1,2 @@
+timestamp,ip,username,status,is_campus_ip,ai_prediction,action_taken
+2026-11-20T01:06:09.574947,127.0.0.1,123,FAILURE,0,0,ALLOW
